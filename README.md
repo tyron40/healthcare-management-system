@@ -2,6 +2,8 @@
 
 A comprehensive healthcare platform for patient management, scheduling, and electronic health records built with React, TypeScript, and Tailwind CSS.
 
+![screencapture-relaxed-twilight-8f2d0b-netlify-app-2025-03-27-17_13_41](https://github.com/user-attachments/assets/b20005f6-1386-4c85-973a-3720d1904322)
+
 ![Healthcare Management System Dashboard](https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=2000)
 
 ## Features
